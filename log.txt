@@ -1,0 +1,225 @@
+2024-05-22 15:49:05,178:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-22 15:49:05,180:INFO:[33mPress CTRL+C to quit[0m
+2024-05-22 15:49:05,185:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:49:05,643:WARNING: * Debugger is active!
+2024-05-22 15:49:05,646:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:49:15,322:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-22 15:49:15,322:INFO:[33mPress CTRL+C to quit[0m
+2024-05-22 15:49:15,328:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:49:15,772:WARNING: * Debugger is active!
+2024-05-22 15:49:15,774:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:50:07,561:INFO:127.0.0.1 - - [22/May/2024 15:50:07] "GET / HTTP/1.1" 200 -
+2024-05-22 15:50:07,603:INFO:127.0.0.1 - - [22/May/2024 15:50:07] "[33mGET /static/index.css HTTP/1.1[0m" 404 -
+2024-05-22 15:50:10,873:INFO:127.0.0.1 - - [22/May/2024 15:50:10] "GET /login HTTP/1.1" 200 -
+2024-05-22 15:50:10,886:INFO:127.0.0.1 - - [22/May/2024 15:50:10] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:50:16,655:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-05-22 15:50:16,667:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "GET /dashboard HTTP/1.1" 200 -
+2024-05-22 15:50:16,692:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "[33mGET /index.js HTTP/1.1[0m" 404 -
+2024-05-22 15:50:16,777:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "[36mGET /static/css/dashboard.css HTTP/1.1[0m" 304 -
+2024-05-22 15:50:16,787:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-05-22 15:50:16,793:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "[36mGET /static/imgs/fuel.png HTTP/1.1[0m" 304 -
+2024-05-22 15:50:16,793:INFO:127.0.0.1 - - [22/May/2024 15:50:16] "[36mGET /static/imgs/sensor.png HTTP/1.1[0m" 304 -
+2024-05-22 15:50:25,639:INFO:127.0.0.1 - - [22/May/2024 15:50:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-05-22 15:50:25,649:INFO:127.0.0.1 - - [22/May/2024 15:50:25] "GET /login HTTP/1.1" 200 -
+2024-05-22 15:50:25,663:INFO:127.0.0.1 - - [22/May/2024 15:50:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:50:33,606:INFO:127.0.0.1 - - [22/May/2024 15:50:33] "POST /login HTTP/1.1" 200 -
+2024-05-22 15:50:33,615:INFO:127.0.0.1 - - [22/May/2024 15:50:33] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:51:24,888:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:24,889:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:24,889:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:25,082:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:51:25,592:WARNING: * Debugger is active!
+2024-05-22 15:51:25,595:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:51:29,207:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:29,208:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:29,208:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:29,209:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:51:29,726:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:51:30,383:WARNING: * Debugger is active!
+2024-05-22 15:51:30,387:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:51:46,812:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-22 15:51:46,812:INFO:[33mPress CTRL+C to quit[0m
+2024-05-22 15:51:46,818:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:51:47,314:WARNING: * Debugger is active!
+2024-05-22 15:51:47,317:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:52:10,952:INFO:127.0.0.1 - - [22/May/2024 15:52:10] "GET / HTTP/1.1" 200 -
+2024-05-22 15:52:11,006:INFO:127.0.0.1 - - [22/May/2024 15:52:11] "[33mGET /static/index.css HTTP/1.1[0m" 404 -
+2024-05-22 15:52:13,802:INFO:127.0.0.1 - - [22/May/2024 15:52:13] "GET /login HTTP/1.1" 200 -
+2024-05-22 15:52:13,817:INFO:127.0.0.1 - - [22/May/2024 15:52:13] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:52:19,900:INFO:127.0.0.1 - - [22/May/2024 15:52:19] "GET /signup HTTP/1.1" 200 -
+2024-05-22 15:52:19,911:INFO:127.0.0.1 - - [22/May/2024 15:52:19] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:52:42,921:INFO:127.0.0.1 - - [22/May/2024 15:52:42] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2024-05-22 15:52:42,926:INFO:127.0.0.1 - - [22/May/2024 15:52:42] "[33mGET /ogin HTTP/1.1[0m" 404 -
+2024-05-22 15:54:27,802:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:54:27,803:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:54:27,804:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:54:27,804:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:54:28,654:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:54:29,274:WARNING: * Debugger is active!
+2024-05-22 15:54:29,278:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:56:09,100:INFO:127.0.0.1 - - [22/May/2024 15:56:09] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 15:56:16,948:INFO:127.0.0.1 - - [22/May/2024 15:56:16] "[33mGET /ogin HTTP/1.1[0m" 404 -
+2024-05-22 15:56:21,150:INFO:127.0.0.1 - - [22/May/2024 15:56:21] "GET /login HTTP/1.1" 200 -
+2024-05-22 15:56:21,161:INFO:127.0.0.1 - - [22/May/2024 15:56:21] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:56:29,990:INFO:127.0.0.1 - - [22/May/2024 15:56:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-05-22 15:56:30,005:INFO:127.0.0.1 - - [22/May/2024 15:56:30] "GET /dashboard HTTP/1.1" 200 -
+2024-05-22 15:56:30,024:INFO:127.0.0.1 - - [22/May/2024 15:56:30] "[33mGET /index.js HTTP/1.1[0m" 404 -
+2024-05-22 15:56:30,129:INFO:127.0.0.1 - - [22/May/2024 15:56:30] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-05-22 15:56:30,132:INFO:127.0.0.1 - - [22/May/2024 15:56:30] "[36mGET /static/css/dashboard.css HTTP/1.1[0m" 304 -
+2024-05-22 15:56:30,136:INFO:127.0.0.1 - - [22/May/2024 15:56:30] "[36mGET /static/imgs/fuel.png HTTP/1.1[0m" 304 -
+2024-05-22 15:56:30,137:INFO:127.0.0.1 - - [22/May/2024 15:56:30] "[36mGET /static/imgs/sensor.png HTTP/1.1[0m" 304 -
+2024-05-22 15:57:05,862:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:57:05,863:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:57:05,863:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 15:57:06,626:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 15:57:07,319:WARNING: * Debugger is active!
+2024-05-22 15:57:07,324:INFO: * Debugger PIN: 127-178-242
+2024-05-22 15:57:11,900:INFO:127.0.0.1 - - [22/May/2024 15:57:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-05-22 15:57:11,914:INFO:127.0.0.1 - - [22/May/2024 15:57:11] "GET /login HTTP/1.1" 200 -
+2024-05-22 15:57:11,927:INFO:127.0.0.1 - - [22/May/2024 15:57:11] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:57:14,104:INFO:127.0.0.1 - - [22/May/2024 15:57:14] "GET /signup HTTP/1.1" 200 -
+2024-05-22 15:57:14,112:INFO:127.0.0.1 - - [22/May/2024 15:57:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 15:58:35,728:INFO:127.0.0.1 - - [22/May/2024 15:58:35] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2024-05-22 15:58:35,807:INFO:127.0.0.1 - - [22/May/2024 15:58:35] "[36mGET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-22 15:58:35,810:INFO:127.0.0.1 - - [22/May/2024 15:58:35] "[36mGET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-22 15:58:35,844:INFO:127.0.0.1 - - [22/May/2024 15:58:35] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-22 15:59:39,140:INFO:127.0.0.1 - - [22/May/2024 15:59:39] "[35m[1mPOST /signup HTTP/1.1[0m" 500 -
+2024-05-22 15:59:39,152:INFO:127.0.0.1 - - [22/May/2024 15:59:39] "[36mGET /signup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-22 15:59:39,153:INFO:127.0.0.1 - - [22/May/2024 15:59:39] "[36mGET /signup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-22 15:59:39,171:INFO:127.0.0.1 - - [22/May/2024 15:59:39] "[36mGET /signup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-22 16:00:24,831:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:00:24,831:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:00:24,831:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:00:25,698:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 16:00:26,211:WARNING: * Debugger is active!
+2024-05-22 16:00:26,213:INFO: * Debugger PIN: 127-178-242
+2024-05-22 16:00:32,189:INFO:127.0.0.1 - - [22/May/2024 16:00:32] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2024-05-22 16:00:32,195:INFO:127.0.0.1 - - [22/May/2024 16:00:32] "GET /login HTTP/1.1" 200 -
+2024-05-22 16:00:32,203:INFO:127.0.0.1 - - [22/May/2024 16:00:32] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-05-22 16:00:44,872:INFO:127.0.0.1 - - [22/May/2024 16:00:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-05-22 16:00:44,884:INFO:127.0.0.1 - - [22/May/2024 16:00:44] "GET /dashboard HTTP/1.1" 200 -
+2024-05-22 16:00:44,911:INFO:127.0.0.1 - - [22/May/2024 16:00:44] "[33mGET /index.js HTTP/1.1[0m" 404 -
+2024-05-22 16:00:45,002:INFO:127.0.0.1 - - [22/May/2024 16:00:45] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-05-22 16:00:45,007:INFO:127.0.0.1 - - [22/May/2024 16:00:45] "[36mGET /static/css/dashboard.css HTTP/1.1[0m" 304 -
+2024-05-22 16:00:45,012:INFO:127.0.0.1 - - [22/May/2024 16:00:45] "[36mGET /static/imgs/sensor.png HTTP/1.1[0m" 304 -
+2024-05-22 16:00:45,013:INFO:127.0.0.1 - - [22/May/2024 16:00:45] "[36mGET /static/imgs/fuel.png HTTP/1.1[0m" 304 -
+2024-05-22 16:01:40,493:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:01:40,494:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:01:40,494:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:01:41,438:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 16:01:41,914:WARNING: * Debugger is active!
+2024-05-22 16:01:41,916:INFO: * Debugger PIN: 127-178-242
+2024-05-22 16:01:58,516:INFO:127.0.0.1 - - [22/May/2024 16:01:58] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 16:03:04,898:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:03:04,900:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:03:04,900:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:03:04,900:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:03:05,142:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 16:03:05,657:WARNING: * Debugger is active!
+2024-05-22 16:03:05,659:INFO: * Debugger PIN: 127-178-242
+2024-05-22 16:03:18,058:INFO:127.0.0.1 - - [22/May/2024 16:03:18] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 16:04:44,857:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:04:44,857:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:04:44,858:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:04:44,858:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:04:45,936:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 16:04:46,442:WARNING: * Debugger is active!
+2024-05-22 16:04:46,445:INFO: * Debugger PIN: 127-178-242
+2024-05-22 16:04:59,138:ERROR:Failed to process level sensor data
+Traceback (most recent call last):
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 608, in get_json
+    rv = self.json_module.loads(data)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 187, in loads
+    return json.loads(s, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 3 column 7 (char 27)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\SAMIKSHA\Downloads\api1-main\api1-main\app.py", line 268, in receive_level_sensor_data
+    sense_data = request.json['modbus_TEST']
+                 ^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 557, in json
+    return self.get_json()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 617, in get_json
+    rv = self.on_json_loading_failed(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 642, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting value: line 3 column 7 (char 27)
+2024-05-22 16:04:59,145:INFO:127.0.0.1 - - [22/May/2024 16:04:59] "[35m[1mPOST /api/level_sensor_data HTTP/1.1[0m" 500 -
+2024-05-22 16:09:20,530:INFO:127.0.0.1 - - [22/May/2024 16:09:20] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 16:17:27,235:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:17:27,236:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:17:27,237:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:17:27,237:INFO: * Detected change in 'c:\\Users\\SAMIKSHA\\Downloads\\api1-main\\api1-main\\app.py', reloading
+2024-05-22 16:17:27,533:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 16:17:28,055:WARNING: * Debugger is active!
+2024-05-22 16:17:28,057:INFO: * Debugger PIN: 127-178-242
+2024-05-22 16:19:29,860:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-22 16:19:29,861:INFO:[33mPress CTRL+C to quit[0m
+2024-05-22 16:19:29,868:INFO: * Restarting with watchdog (windowsapi)
+2024-05-22 16:19:30,334:WARNING: * Debugger is active!
+2024-05-22 16:19:30,336:INFO: * Debugger PIN: 127-178-242
+2024-05-22 16:19:52,789:INFO:Data stored successfully: {'D': '2024-06-05T09:45:00Z', 'address': '456 Sensor Street, Innovation City, IC 11223', 'data': 880, 'IMEI': '567890123456237'}
+2024-05-22 16:19:52,790:INFO:127.0.0.1 - - [22/May/2024 16:19:52] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 16:22:50,577:INFO:Data stored successfully: {'D': '2024-06-05T09:45:00Z', 'address': '456 Sensor Street, Innovation City, IC 11223', 'age': 34, 'data': 880, 'IMEI': '567890123456237'}
+2024-05-22 16:22:50,577:INFO:127.0.0.1 - - [22/May/2024 16:22:50] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 16:24:25,533:INFO:Data stored successfully: {'D': '2024-06-05T09:45:00Z', 'address': '456 Sensor Street, Innovation City, IC 11223', 'age': 34, 'data': 480, 'IMEI': '567890123456237'}
+2024-05-22 16:24:25,534:INFO:127.0.0.1 - - [22/May/2024 16:24:25] "POST /api/level_sensor_data HTTP/1.1" 200 -
+2024-05-22 16:24:56,571:ERROR:Failed to process level sensor data: b'{\r\n "modbus_TEST":{\r\n  "D":"2024-06-05T09:45:00Z",\r\n  "address": "456 Sensor Street, Innovation City, IC 11223",.\r\n  "data": 480,\r\n  "IMEI": "567890123456237"\r\n}\r\n}'
+Traceback (most recent call last):
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 608, in get_json
+    rv = self.json_module.loads(data)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 187, in loads
+    return json.loads(s, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 4 column 61 (char 112)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\SAMIKSHA\Downloads\api1-main\api1-main\app.py", line 272, in receive_level_sensor_data
+    sense_data = request.json.get('modbus_TEST')
+                 ^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 557, in json
+    return self.get_json()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 617, in get_json
+    rv = self.on_json_loading_failed(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\wrappers.py", line 131, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SAMIKSHA\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 642, in on_json_loading_failed
+    raise BadRequest(f"Failed to decode JSON object: {e}")
+werkzeug.exceptions.BadRequest: 400 Bad Request: Failed to decode JSON object: Expecting property name enclosed in double quotes: line 4 column 61 (char 112)
+2024-05-22 16:24:56,577:INFO:127.0.0.1 - - [22/May/2024 16:24:56] "[35m[1mPOST /api/level_sensor_data HTTP/1.1[0m" 500 -
